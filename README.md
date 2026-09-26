@@ -7,3 +7,5 @@
 - `docs/research-ai-ethics-audit-2026-09-26.md` — บันทึกตรวจเนื้อหาและแหล่งอ้างอิง
 
 เว็บไซต์เป็น HTML แบบเปิดไฟล์ได้ทันที และเผยแพร่บน Vercel เป็นเว็บไซต์สาธารณะ
+
+เปิดเว็บไซต์: https://research-ai-ethics.vercel.app/
